@@ -1,0 +1,7 @@
+(executable
+  (public_name personal_site)
+  (name main)
+  (libraries
+    dream
+    str
+    routing))

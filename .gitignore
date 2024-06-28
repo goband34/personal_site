@@ -1,0 +1,5 @@
+_build
+_opam
+static/pages/*
+static/posts/*
+static/dune.inc
